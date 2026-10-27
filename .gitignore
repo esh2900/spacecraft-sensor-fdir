@@ -1,0 +1,19 @@
+# Build files
+build/
+*.o
+*.out
+
+# Test executables
+test_queue
+test_simulated_bus
+
+# Generated simulation results
+results/
+
+# Python
+__pycache__/
+*.pyc
+
+# Editor files
+.vscode/
+.idea/
